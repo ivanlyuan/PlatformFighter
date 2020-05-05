@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a89f727482fae74e8363b23c4773b1d, type: 3}
+  m_Name: Uptilt
+  m_EditorClassIdentifier: 
+  _positionOffset: {x: 0, y: 1}
+  _size: {x: 1.5, y: 2.5}
+  _numOfActiveFrames: 2
+  _damage: 10
+  _rotation: 0
+  _bkb: 30
+  _kbg: 30
+  _sdiFactor: 0
+  _kbAngle: {x: 1, y: 3}
